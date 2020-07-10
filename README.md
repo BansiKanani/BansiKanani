@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm using github :)
+
+- 🔭 DevOps Engineer in Acko Technology & Services.
+- 📫 How to reach me: bansi.kumar.kanani@gmail.com
 
 <!--
 **BansiKanani/BansiKanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
